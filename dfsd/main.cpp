@@ -40,7 +40,7 @@ void CannyThreshold(int, void*)
     imshow( window_name, dst );
 }
 
-
+// update
 /** @function main */
 int main( int argc, char** argv )
 {
